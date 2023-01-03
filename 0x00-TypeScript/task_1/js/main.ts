@@ -66,6 +66,3 @@ interface StudentClassConstructor {
       return this.firstName;
     }
   }
-
-  
-
