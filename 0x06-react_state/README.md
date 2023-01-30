@@ -1,7 +1,6 @@
 # react-state-store
 Give you the ability to decide when and what `state`s to execute in `setState`
 
-[![Version](http://img.shields.io/npm/v/react-state-store.svg)](https://www.npmjs.org/package/react-state-store)
 
 
 ### Installation
